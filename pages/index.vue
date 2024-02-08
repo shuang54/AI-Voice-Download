@@ -1,5 +1,6 @@
 <template>
   <h1 class=" text-lime-500 text-center text-lg">AI-Voice-Download</h1>
+  <h2 class=" text-lime-500 text-center text-sm"><a href="https://github.com/shuang54/AI-Voice-Download">GITHUB</a></h2>
   <div class="w-max-[1200px] p-6 pb-20">
     <form class="border-b border-gray-900/10 pb-12 ">
       <div class="space-y-12">
